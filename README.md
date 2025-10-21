@@ -22,7 +22,7 @@ The game ensures that guesses are valid 5-letter words from the list and prevent
 
 ## Technologies & Libraries
 
-- Python 3.x
+- Python
 - [`colorama`](https://pypi.org/project/colorama/) – for colored terminal output
 - [`collections.Counter`](https://docs.python.org/3/library/collections.html#collections.Counter) – for handling letter frequencies
 - [`re`](https://docs.python.org/3/library/re.html) – for validating input
