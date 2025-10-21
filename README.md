@@ -58,4 +58,14 @@ The program was rigorously tested to ensure:
 - [List of 5-Letter Words](https://copylists.com/words/list-of-5-letter-words/)  
 - [Python `collections.Counter`](https://chercher.tech/python/how-to-use-collections-counter-in-python)
 
+---
+
+## Contact
+
+For questions, suggestions, or feedback, please reach out:
+**[knpike@uvm.edu](mailto:knpike@uvm.edu)**
+
+---
+
+**© 2023 Kayli Pike**
 
