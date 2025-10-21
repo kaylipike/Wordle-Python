@@ -39,7 +39,7 @@ The game ensures that guesses are valid 5-letter words from the list and prevent
 
 ---
 
-## Collaboration & Learning
+## Collaboration
 
 This project was a collaborative effort:
 
