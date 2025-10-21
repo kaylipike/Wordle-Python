@@ -1,5 +1,10 @@
 # 5-Letter Wordle
+
+---
+
 **5-Letter Wordle** demonstrates proficiency in Python programming, problem-solving, collaboration, and the ability to extend class-learned concepts into a fully functional, interactive project.
+
+---
 
 ## Project Overview
 
@@ -11,6 +16,8 @@ This is a Python-based implementation of the popular word-guessing game *Wordle*
 
 The game ensures that guesses are valid 5-letter words from the list and prevents duplicate guesses. It also correctly handles duplicate letters, ensuring accurate color feedback based on the number of occurrences in the secret word.
 
+---
+
 ## Key Features
 
 - **Random Word Selection:** Secret word chosen randomly from a supplied 5-letter word list.
@@ -20,6 +27,8 @@ The game ensures that guesses are valid 5-letter words from the list and prevent
 - **PEP 8 Compliance:** Code adheres approximately to Python’s PEP 8 standards using `flake8`.
 - **Color Feedback:** Utilizes `colorama` to provide colored feedback in the terminal for an interactive experience.
 
+---
+
 ## Technologies & Libraries
 
 - Python
@@ -28,6 +37,8 @@ The game ensures that guesses are valid 5-letter words from the list and prevent
 - [`re`](https://docs.python.org/3/library/re.html) – for validating input
 - [`random`](https://docs.python.org/3/library/random.html) – for selecting the secret word
 
+---
+
 ## Collaboration & Learning
 
 This project was a collaborative effort:
@@ -35,6 +46,8 @@ This project was a collaborative effort:
 - Kayli Pike: Implemented input validation, file reading, identified a reliable 5-letter word list, and worked on how to handle duplicate letters in a word.
 - Jackie Littlefield: Led the main game loop implementation, including feedback color logic, with contributions from Kayli.
 - Together: Refactored code into functions, ensured PEP 8 compliance, and tested all functionalities including edge cases.
+
+---
 
 ## Testing & Validation
 
@@ -45,12 +58,16 @@ The program was rigorously tested to ensure:
 - Prevention of repeated guesses.
 - Proper termination and replay functionality.
 
+---
+
 ## Next Steps / Future Improvements
 
 - Implement a graphical user interface for a more user-friendly experience.
 - Refine the word list for greater challenge and variety.
 - Provide clearer instructions at the start of the game.
 - Include additional statistics, such as average number of guesses to solve a word.
+
+---
 
 ## References
 
