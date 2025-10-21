@@ -63,7 +63,7 @@ The program was rigorously tested to ensure:
 ## Contact
 
 For questions, suggestions, or feedback, please reach out:
-**[knpike@uvm.edu](mailto:knpike@uvm.edu)**
+**[kayli.pike@gmail.com](mailto:kayli.pike@gmail.com)**
 
 ---
 
