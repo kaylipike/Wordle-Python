@@ -62,8 +62,9 @@ The program was rigorously tested to ensure:
 
 ## Contact
 
-For questions, suggestions, or feedback, please reach out:
-**[kayli.pike@gmail.com](mailto:kayli.pike@gmail.com)**
+For questions, feedback, or collaboration inquiries, please contact:
+
+**Email:** [kayli.pike@gmail.com](mailto:kayli.pike@gmail.com)
 
 ---
 
